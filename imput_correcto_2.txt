@@ -1,0 +1,5 @@
+x <- 0
+variar i desde 1 hasta 5 con paso 2 hacer
+  x <- x + i
+  escribir x
+fin_variar
